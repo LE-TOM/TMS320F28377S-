@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TMS320F28377SPTPS)(type Legacy)(uri ${KIPRJMOD}/Lib/TMS320F28377SPTPS/KiCAD/TMS320F28377SPTPS.lib)(options "")(descr ""))
+)

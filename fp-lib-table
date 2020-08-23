@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name KiCAD)(type KiCad)(uri ${KIPRJMOD}/Lib/TMS320F28377SPTPS/KiCAD)(options "")(descr ""))
+  (lib (name LOGO)(type KiCad)(uri ${KIPRJMOD}/Lib/LOGO)(options "")(descr ""))
+)
